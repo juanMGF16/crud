@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\angular\\prueba_crud\\miWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|c:\\angular\\prueba_crud\\miwebapi\\miwebapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|solutionrelative:miwebapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|c:\\angular\\prueba_crud\\miwebapi\\miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|solutionrelative:miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|c:\\angular\\prueba_crud\\miwebapi\\miwebapi\\migrations\\20241217132042_tablalaptops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E43B81-C873-4DB0-90F9-EC9FCB22A7B3}|miWebApi\\miWebApi.csproj|solutionrelative:miwebapi\\migrations\\20241217132042_tablalaptops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "miWebApi\\Controllers\\LaptopsController.cs",
+              "ToolTip": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "miWebApi\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:30:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "miWebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "miWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T13:26:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241217132042_TablaLaptops.cs",
+              "DocumentMoniker": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\Migrations\\20241217132042_TablaLaptops.cs",
+              "RelativeDocumentMoniker": "miWebApi\\Migrations\\20241217132042_TablaLaptops.cs",
+              "ToolTip": "C:\\angular\\prueba_crud\\miWebApi\\miWebApi\\Migrations\\20241217132042_TablaLaptops.cs",
+              "RelativeToolTip": "miWebApi\\Migrations\\20241217132042_TablaLaptops.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:20:43.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
